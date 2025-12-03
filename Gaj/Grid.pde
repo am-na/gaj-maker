@@ -1,4 +1,12 @@
 
+void gui(){
+  shape(title,995,40,200,172);
+  noStroke();
+  fill(96,96,96,33);
+  rectMode(CORNER);
+  rect(940,20,300,680);
+}
+
 void grid(int gridSize, int miniGrid){
   int column = 920;
   int row = height;
