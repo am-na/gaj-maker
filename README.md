@@ -1,1 +1,1 @@
-# gaj-maker
+# Digital-Gaj-Motif-Pattern-Maker
